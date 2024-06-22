@@ -11,3 +11,6 @@ Deshui Miao<sup>1,2,+</sup>, [Xin Li](https://sites.google.com/view/xinli-homepa
 [Report](https://arxiv.org/pdf/2406.04600)
 
 ![Demo](demo/MOSE-test/complex_case.jpg)
+
+![Demo](demo/MOSE-test/small_case.jpg)
+
