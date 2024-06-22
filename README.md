@@ -1,5 +1,5 @@
 <div align="center">
-<h1>VOS-Solution V2</h1>
+<h1>VOS-Solution</h1>
   
 ## 🔥🔥🔥 1st Place Solution for MOSE Track in CVPR 2024 PVUW Workshop: Complex Video Object Segmentation
 
