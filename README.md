@@ -7,3 +7,7 @@ Deshui Miao<sup>1,2,+</sup>, [Xin Li](https://sites.google.com/view/xinli-homepa
 
 <sup>+</sup> Team leader, 
 <sup>\*</sup> Corresponding Authors
+
+[Report](https://arxiv.org/pdf/2406.04600)
+
+![Demo](assets/demo.png)
