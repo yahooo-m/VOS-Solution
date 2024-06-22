@@ -1,5 +1,5 @@
 # VOS-Solution
-## 1st Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Complex Video Object Segmentation
+## 🔥🔥🔥 1st Place Solution for MOSE Track in CVPR 2024 PVUW Workshop: Complex Video Object Segmentation
 
 Deshui Miao<sup>1,2,+</sup>, [Xin Li](https://sites.google.com/view/xinli-homepage)<sup>1,+</sup>, [Zhenyu He](https://scholar.google.com/citations?hl=zh-CN&user=cv8_7usAAAAJ)<sup>2,\*</sup>, [Yaowei Wang](https://scholar.google.com/citations?hl=zh-CN&user=o_DllmIAAAAJ)<sup>2,*</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=p9-ohHsAAAAJ)<sup>3</sup>
 
