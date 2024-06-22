@@ -10,4 +10,4 @@ Deshui Miao<sup>1,2,+</sup>, [Xin Li](https://sites.google.com/view/xinli-homepa
 
 [Report](https://arxiv.org/pdf/2406.04600)
 
-![Demo](assets/demo.png)
+![Demo](demo/MOSE-test/complex_case.jpg)
