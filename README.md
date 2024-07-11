@@ -10,6 +10,7 @@
 <sup>+</sup> Team Leader
 
 <a href="https://arxiv.org/pdf/2406.04600"><img src='https://img.shields.io/badge/arXiv-1st place of MOSE Track-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/pdf/2407.07760"><img src='https://img.shields.io/badge/arXiv-detailed' alt='Paper PDF'></a>
 <a href="https://mp.weixin.qq.com/s/esJ-JPgAGzH_JcmTmnTRSA"><img src='https://img.shields.io/badge/公众号-我爱计算机视觉-blue' alt='News'></a>
 <a href="https://mp.weixin.qq.com/s/5syjENuKspqaUoWG861EhA"><img src='https://img.shields.io/badge/公众号-3D视觉工坊-green' alt='News'></a>
 <a href="https://www.youtube.com/watch?v=7uE-KMpY4C4&t=4s&pp=ygUEcHZ1dw%3D%3D"><img src='https://img.shields.io/badge/YouTube-Video-red' alt='News'></a>
