@@ -16,7 +16,7 @@
 
 ## 🔥🔥🔥 1st Place Solution for VOT Challenge (1st for VOTS Track & 3th for VOTSt Track)
 
-[Deshui Miao](https://yahooo-m.github.io)<sup>1,2</sup>, [Xin Li](https://sites.google.com/view/xinli-homepage)<sup>1,+</sup>, Xingsen Huang, [Zhenyu He](https://scholar.google.com/citations?hl=zh-CN&user=cv8_7usAAAAJ)<sup>1, 2</sup>, Dongmei Jiang, [Yaowei Wang](https://scholar.google.com/citations?hl=zh-CN&user=o_DllmIAAAAJ)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=p9-ohHsAAAAJ)<sup>3</sup>
+[Deshui Miao](https://yahooo-m.github.io)<sup>1,2</sup>, [Xin Li](https://sites.google.com/view/xinli-homepage)<sup>1,+</sup>, Xingsen Huang<sup>1</sup>, [Zhenyu He](https://scholar.google.com/citations?hl=zh-CN&user=cv8_7usAAAAJ)<sup>1, 2</sup>, Dongmei Jiang<sup>1</sup>, [Yaowei Wang](https://scholar.google.com/citations?hl=zh-CN&user=o_DllmIAAAAJ)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=p9-ohHsAAAAJ)<sup>3</sup>
 
 <sup>1</sup> [Peng Cheng Laboratory](https://https://www.pcl.ac.cn/) &nbsp; <sup>2</sup> Harbin Institute of Technology, Shenzhen &nbsp; <sup>3</sup> University of California at Merced &nbsp;
 
