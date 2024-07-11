@@ -14,7 +14,7 @@
 <a href="https://mp.weixin.qq.com/s/5syjENuKspqaUoWG861EhA"><img src='https://img.shields.io/badge/公众号-3D视觉工坊-green' alt='News'></a>
 <a href="https://www.youtube.com/watch?v=7uE-KMpY4C4&t=4s&pp=ygUEcHZ1dw%3D%3D"><img src='https://img.shields.io/badge/YouTube-Video-red' alt='News'></a>
 
-## 🔥🔥🔥 1st Place Solution for VOT Challenge (1st for VOTS Track & 3th for VOTSt Track)
+## 🔥🔥🔥 Solution for VOT Challenge (Winner of the VOTS Track & 3th of the VOTSt Track)
 
 [Deshui Miao](https://yahooo-m.github.io)<sup>1,2</sup>, [Xin Li](https://sites.google.com/view/xinli-homepage)<sup>1,+</sup>, Xingsen Huang<sup>1</sup>, [Zhenyu He](https://scholar.google.com/citations?hl=zh-CN&user=cv8_7usAAAAJ)<sup>1, 2</sup>, Dongmei Jiang<sup>1</sup>, [Yaowei Wang](https://scholar.google.com/citations?hl=zh-CN&user=o_DllmIAAAAJ)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=p9-ohHsAAAAJ)<sup>3</sup>
 
