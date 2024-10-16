@@ -26,6 +26,7 @@
 
 <a href="https://arxiv.org/pdf/2407.07760"><img src='https://img.shields.io/badge/arXiv-detailed' alt='Paper PDF'></a>
 
+This paper is currently undergoing review! The code and details will be released.
 
 ![Demo](demo/MOSE-test/complex_case.jpg)
 
